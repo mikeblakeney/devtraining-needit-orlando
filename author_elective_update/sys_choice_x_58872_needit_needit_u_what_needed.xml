@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-06-03 18:56:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>1c860a6edb21cc508aea21c405961967</instance_id>
+        <instance_name>dev95938</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-06-03 18:56:04</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>c17a6c772f09501033d1ea5ef699b667</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mike.blakeney@terazo.com</sys_created_by>
+        <sys_created_on>2020-06-03 18:56:04</sys_created_on>
+        <sys_id>d3aa60bb2f09501033d1ea5ef699b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727b8a5bf00000001</sys_recorded_at>
+        <sys_updated_by>mike.blakeney@terazo.com</sys_updated_by>
+        <sys_updated_on>2020-06-03 18:56:04</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>5faa60bbe4095010325cbb292bf05068</update_guid>
+        <update_guid_history>5faa60bbe4095010325cbb292bf05068:-429457270,1baa60bbe0095010405e4dad455ebf65:-915848390,97aa60bb3809501068cb0ee89c826b62:367156690,5faa60bbd40950106935ec94b42e0f52:-1223568115,dbaa60bb6809501091d3f9c212271f4f:1500617887,5baa60bbb309501056c7aeff3254cf4c:1827197514,d7aa60bb4d0950107ca3955af7e8cd49:-2088659708,65baef179b0d10108d049a105b9a665f:0,918a2b17c10d10104a534c7538ae46e4:-1141864454,158a2b17190d10108087fb3356598ae0:-915848390,918a2b17080d1010ee323e85816db4dd:-567701384,118a2b17a10d1010c2423a9581f924da:-1423691141,9d8a2b172b0d101070686027aea438d6:-709049971,1d8a2b17b00d1010dbee529b9c0988d3:-1389990280,998a2b17230d1010bf0e0b2a6fc61dd0:221069324,198a2b17050d1010562d860dd8a506cd:115963504,dd8a2b17070d10109ebecf43d3682abd:-495418659,b3f2f693ac89101049cf42c29f320c14:0,c5d27293d08910105db4552984c990ea:2129322627,49d272932c891010ad88816a6151d2e6:-915848390,c5d27293d68910103f52005d3b7072e3:-567701384,45d27293018910101e7da4bb70f05ce0:-1423691141,c1d272930a8910107545941eae0ea5dd:-709049971,41d27293f9891010c7773ec1fc5704da:-1389990280,cdd272938b891010b69341340a75f4d6:221069324,4dd27293d98910104b378692a48a56d3:115963504,c9d2729382891010bd67487fedb09ed0:-495418659,059066977f49101088e58b3f4a576879:0,3e30ae57964910100f7bf95688a97a84:-702474912,be30ae57cf491010920c0712786ed880:-915848390,3e30ae577c491010554ce0596a14c67d:-567701384,ba30ae576b491010cacbee8b37a8be7a:-1423691141,3a30ae577649101095b8c9201e3d5377:-709049971,b630ae5766491010cf10636aac6f9774:-1389990280,3630ae5762491010727bde725320c671:221069324,b230ae57ef4910103eba98d3d7ad0c6e:115963504,3230ae577b491010a21c4eff8a284b6b:-495418659,c98d36cf5101101022b8431da406b0ba:0,124dfe8f5f01101055ec1538cd77864a:-429457270,ca4dfe8fef0110102f14d36b68ca7646:1264701252,4a4dfe8fe00110105f15de8e775a4543:-1001554480,c64dfe8f530110106c4b585fea966c40:1291032590,464dfe8f37011010fb4324d641948d3d:1977964177,c24dfe8fee0110100b570f9987408a3a:-1752887133,424dfe8f77011010c5a847fc5f85ad37:103642638,ce4dfe8f33011010bf9524d00e1f3133:2515242,becb7e4fa4011010e49d3e9525d266f4:-1460202391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mike.blakeney@terazo.com</sys_created_by>
+        <sys_created_on>2020-06-03 18:56:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>a9bae0bb2f09501033d1ea5ef699b6b2</sys_id>
+        <sys_metadata>a9bae0bb2f09501033d1ea5ef699b6b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">d3aa60bb2f09501033d1ea5ef699b669</sys_update_version>
+        <sys_updated_by>mike.blakeney@terazo.com</sys_updated_by>
+        <sys_updated_on>2020-06-03 18:56:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
